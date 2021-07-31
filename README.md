@@ -44,16 +44,19 @@ With the aim of directly connecting farmers and consumers without the need for i
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/PachaProject/Pacha/blob/main/images/PachaPich.jpg)](https://youtu.be/vOgCOoy_Bx0)
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Video transcription/translation app](https://github.com/PachaProject/Pacha/blob/main/images/PachaPich.jpghttps://github.com/PachaProject/Pacha/blob/main/images/architecturePACHA.jpg)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The farmer registers on the website, and registers the products that he produces.
+2. The farmer's information is stored in the database.
+3. The information on products, locations and prices is fed into the recommendation system.
+4. The necessary information is consumed from different sources through the apis.
+5. The apis created are used to feed the prediction model with meteorological data and data on the farmer's products.
+6. The information obtained is sent to the prediction board for the farmer and to the list of recommendations for the consumer.
+7. The required information is displayed to the farmer and the consumer through a graphical interface. 
 
 ## Long description
 
@@ -100,15 +103,19 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
+* [Andres Forero](https://www.linkedin.com/in/andres-david-forero-martinez/)
+* [Thania Colán](https://www.linkedin.com/in/thaniaacp/)
+* [Arturo Gómez](https://www.linkedin.com/in/arturo-g%C3%B3mez-carlos-2230671b2/)
+* [Haydeeé Sebastian](https://www.linkedin.com/in/haydeeesthefanysebastianmeza/)
+* [Romel Arce](https://www.linkedin.com/in/romel-arce-romero/)
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+<a href="https://github.com/PachaProject/Pacha/graphs/contributors">
+  <img src="https://github.com/PachaProject/Pacha/blob/main/images/Authors.png" />
+</a>
 
 ## License
 
