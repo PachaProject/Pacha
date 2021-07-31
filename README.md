@@ -1,4 +1,4 @@
-# Call for Code solution Zero hunger: PACHA :earth_americas:
+# :corn: Call for Code solution Zero hunger: PACHA :earth_americas:
 
 [![DEMO](https://img.shields.io/badge/View-Website-blue)](https://haydeeesthefany.github.io/pacha_app_FE/#/inicio)
 
@@ -38,7 +38,7 @@ One in nine people in the world is currently undernourished; that is, about 815 
 
 Technology can help in many ways. By providing farmers with information about possible droughts, floods, price variations on their products in the market and consumption trends through Artificial Intelligence and Blockchain, which will allow the farmer to be more assertive in deciding what to produce, getting the most out of their products.
 
-### The idea
+### The idea :fire:
 
 With the aim of directly connecting farmers and consumers without the need for intermediaries, Pacha is born, a web platform designed to help farmers make their products more visible to the final consumer, making available to the producer tools based on watson studio and supported by IBM Cloud, taking advantage of market and weather data to develop a price recommendation system for their products and giving suggestions on possible future crops, improving their competitiveness and profitability through Blockchain and artificial intelligence.
 
@@ -62,17 +62,15 @@ With the aim of directly connecting farmers and consumers without the need for i
 
 [More detail is available here](./docs/DESCRIPTION.md)
 
-## Project roadmap
+## Project roadmap :rocket:
 
-The project currently does the following things.
+Pacha is a project with ample growth, which can even provide suggestions to farmers on products to grow, taking into account consumer demand and other data collected by the platform, all this relying on IBM Cloud technologies, Artificial Intelligence and Blockchain.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- within our short-term planning, we seek to integrate small farmers in a vertical integration with large supermarkets and final consumers,     cutting out intermediaries.
 
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
+- It seeks to increase the competitiveness and profitability of farmers by providing them with relevant information such as weather forecasts, possible prices depending on seasonal variations and costs, and crop suggestions in relation to the demand in their area.
 
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
+- in the long term, we seek to work with entities such as insurance companies or large-scale companies that will benefit from information on market prices or climatic variations that affect crops or producers. 
 
 ![Roadmap](./images/RoudmapPacha.jpg)
 
@@ -89,12 +87,12 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Built with
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
+- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results)
+- [IBM Cloudant](https://cloud.ibm.com/docs/Cloudant?topic=cloudant-getting-started-with-cloudant&mhsrc=ibmsearch_a&mhq=cloudant)
+- [FLows Node-RED](https://flows.nodered.org/flow/b5b7d5da14d24e71de447e6aa290937e/in/rekJJdGYekDB)
+- [Google Maps API](https://www.google.com/maps/@4.8608817,-74.2531461,15z)
+- [React.js](https://es.reactjs.org/)
 
 ## Contributing
 
@@ -104,7 +102,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available
 
-## Authors
+## Authors :v:
 
 * [Andres Forero](https://www.linkedin.com/in/andres-david-forero-martinez/)
 * [Thania Colán](https://www.linkedin.com/in/thaniaacp/)
