@@ -1,6 +1,6 @@
 # Call for Code solution Zero hunger: PACHA
 
-[![Website](https://haydeeesthefany.github.io/pacha_app_FE/#/inicio)](https://haydeeesthefany.github.io/pacha_app_FE/#/inicio)
+[![DEMO](https://img.shields.io/badge/View-Website-blue)](https://haydeeesthefany.github.io/pacha_app_FE/#/inicio)
 
 A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [register for Call for Code 2021](https://developer.ibm.com/callforcode/get-started/)!
 
