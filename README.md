@@ -1,4 +1,4 @@
-# Call for Code solution Zero hunger: PACHA
+# Call for Code solution Zero hunger: PACHA :earth_americas:
 
 [![DEMO](https://img.shields.io/badge/View-Website-blue)](https://haydeeesthefany.github.io/pacha_app_FE/#/inicio)
 
@@ -78,7 +78,8 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
+In this section you will find instructions on how to run the project on your local machine for development and testing purposes. You will also find instructions to deploy our project on IBM CLOUD.
+
 
 - [Test our demo](./pacha_app_Frontend/)
 
