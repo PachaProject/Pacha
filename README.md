@@ -2,15 +2,14 @@
 
 [![DEMO](https://img.shields.io/badge/View-Website-blue)](https://haydeeesthefany.github.io/pacha_app_FE/#/inicio)
 
-A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [register for Call for Code 2021](https://developer.ibm.com/callforcode/get-started/)!
+With more than [250 million people potentially on the brink of starvation](https://www.wfp.org/stories/risk-hunger-pandemic-coronavirus-set-almost-double-acute-hunger-end-2020) rapid action is needed to provide food globally. 
+At the same time, a profound change in the global agri-food system is needed if we are to feed the more than 820 million hungry people and the [2 billion more people who will be living in the world by 2050](https://www.un.org/development/desa/en/news/population/world-population-prospects-2019.html)! Increased agricultural productivity and sustainable food production are crucial to help alleviate the risks of hunger.
 
-> If you're new to open source, please consider taking the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source).
-
-_Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md)._
+> A world without hunger is possible, let's make it a reality. [ZERO HUNGER](https://www.un.org/sustainabledevelopment/hunger/).
 
 ## Contents
 
-- [Submission or project name](#submission-or-project-name)
+- [Project](#submission-or-project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -33,15 +32,15 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+One in nine people in the world is currently undernourished; that is, about 815 million people in the world. Most of the people suffering from hunger live in developing countries such as Peru or Colombia, where 12.9 percent of the population is undernourished. This nutrition problem causes 45% of deaths in children under 5 years of age, three thousand children every year.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Technology can help in many ways. By providing farmers with information about possible droughts, floods, price variations on their products in the market and consumption trends through Artificial Intelligence and Blockchain, which will allow the farmer to be more assertive in deciding what to produce, getting the most out of their products.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+With the aim of directly connecting farmers and consumers without the need for intermediaries, Pacha is born, a web platform designed to help farmers make their products more visible to the final consumer, making available to the producer tools based on watson studio and supported by IBM Cloud, taking advantage of market and weather data to develop a price recommendation system for their products and giving suggestions on possible future crops, improving their competitiveness and profitability through Blockchain and artificial intelligence.
 
 ## Demo video
 
