@@ -1,0 +1,32 @@
+.boton-login{
+    background-color:#dea73a;   
+}
+.MuiButtonBase-root{
+    color: white;
+    background-color:#669933 !important
+}
+.MuiButtonBase-root:hover{
+    color: white;
+    background-color:#003300 !important
+}
+.nav-link{
+    color:white;
+ }
+.nav-link:hover{
+    color:#74be42
+ }
+
+ .nav-recover{
+
+    color:#dea73a;   
+
+ }
+ .nav-recover{
+    color:#024c00;  
+    
+ }
+
+ h1{
+    color:#024c00;  
+ }
+

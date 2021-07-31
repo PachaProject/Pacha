@@ -1,0 +1,75 @@
+{
+    "venues": [
+        {
+            
+            "image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2018/08/manzana-verde.jpg?itok=IB6lMQmM",
+            "description": "Juan Perez",
+            "name": "Apples Delight",
+            "calificacion": "3",
+            "geometry": [
+                52.500772,
+                13.472764
+            ],
+            "informacion" : "Organic",
+            "contacto" : "+51 989741509",
+            "web" : "wwww.manzanaverdesita.com",
+            "precio" : "2.00 KG"
+
+
+        },
+        {
+            "image": "https://www.tuberculos.org/wp-content/uploads/2019/09/papa-yungay-1200x900.jpeg",
+            "description": "Luis Gomez",
+            "name": "Yungay potato",
+            "calificacion": "5",
+            "contacto" : "+51 989741509",
+            "geometry": [
+                52.527025,
+                13.446139
+            ],
+            "informacion" : "Use of Pesticides",
+            "web" : "wwww.manzanaverdesita.com",
+            "precio" : "2.00 KG"
+        },
+        {
+            "image": "https://i.ytimg.com/vi/HXycowVxRlU/maxresdefault.jpg",
+            "description": "Mario Chavez",
+            "name": "Yellow potato",
+            "calificacion": "4",
+            "contacto" : "+51 989741509",
+            "geometry": [
+                52.486319,
+                13.421437
+            ],
+            "informacion" : "Organic",
+            "precio" : "2.00 KG"
+        },
+        {
+            "image": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/05/consevar-zanahorias.jpg",
+            "description": "Mario Chavez",
+            "name": "Carrot",
+            "calificacion": "3",
+            "contacto" : "+51 989741509",
+            "geometry": [
+                52.535069,
+                13.452312
+            ],
+            "informacion" : "Use of Pesticides",
+            "web" : "wwww.manzanaverdesita.com",
+            "precio" : "1.00 KG"
+        },
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrSJUmwUbJWhfAZqT2hSTT-ID_Fvf6tsQxg&usqp=CAU",
+            "description": "Mario Chavez",
+            "name": "Green apples",
+            "calificacion": "5",
+            "contacto" : "+51 989741509",
+            "geometry": [
+                52.493039,
+                13.387248
+            ],
+            "informacion" : "Organic",
+            "precio" : "1.00 KG"
+        }
+    ]
+}

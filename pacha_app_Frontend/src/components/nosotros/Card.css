@@ -1,0 +1,65 @@
+.card-nosotros:hover {
+    box-shadow: 5px 10px 20px 1px rgba(255, 255, 255, 0.273) !important;
+    transition: all 0.7s linear;
+  }
+  
+  .text-light-nosotros {
+    padding: 1.5rem 0 !important;
+    background: #dea73a;
+  }
+  
+  .card-text {
+    padding: 0.3rem 1rem;
+    font-size: 1rem;
+  }
+  
+  .overflow {
+    overflow: hidden;
+  }
+  
+  .card-img-top {
+    transform: scale(1);
+    transition: all 0.2s ease-in-out;
+  }
+  
+.container{
+      margin-top: 10px;
+  }
+.nosotros{
+    font-size: 1.5rem;
+
+  }
+
+.row{
+      
+  justify-content: center;
+  align-items: center;
+  }
+
+
+  
+@media screen and (max-width: 1000px ) {
+
+  
+    .nosotros{
+        font-size: 1rem;
+    
+      }
+      .card-text {
+        padding: 0.5rem;
+        font-size: 0.8rem;
+      }
+}
+
+@media screen and (max-width: 750px ) {
+
+  
+    .nosotros{
+        font-size: 1.5rem;
+    
+      }
+    .card-text {
+        padding: 0.3rem 1rem;
+        font-size: 1rem;
+      }
+}

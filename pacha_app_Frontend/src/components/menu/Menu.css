@@ -1,0 +1,42 @@
+.principal {
+background: white;
+}
+
+.principal.img{
+    margin-left: 15px ;
+}
+
+.dropdown-menu{
+    background: #dea73a;
+    color: #dea73a
+}
+
+.dropdown-menu{    
+    background: gray;
+    color: #003300 !important;
+}
+
+.dropdown-menu:hover{    
+    color: #003300 !important;
+}
+
+.opciones{
+
+    background: #669933 ;
+
+}
+.opciones:hover{
+
+    background: #003300;
+
+}.opciones:selected{
+
+    background: #003300;
+
+}
+
+.nav-link{
+    color: #dea73a  !important
+
+
+}
