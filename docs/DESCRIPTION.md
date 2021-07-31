@@ -1,31 +1,25 @@
-# Submission name
+# PACHA Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
+Did you know that 500 million small-scale producers around the world provide up to 80% of the food we consume worldwide? The agricultural sector is the world's largest employer, providing livelihoods for 40% of the population and becoming the largest source of income for poor households. 
 
-Mauris odio ante, rhoncus et varius vel, vulputate et enim. Aliquam erat volutpat. Proin lacinia libero velit, a dictum sapien ultricies quis. Vivamus dolor nibh, efficitur in ipsum vitae, faucibus eleifend felis. Praesent consectetur turpis sit amet lorem tempor cursus. Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
+However, agriculture presents a number of obstacles such as intermediary chains, unreliable prices and climatic conditions that can affect harvests. Difficult access to credit at low interest rates and poor access to technological support, so farmers opt to use their expertise to plant on fixed dates or set prices as they see fit, which due to climate change and other factors does not guarantee a return on investment.
 
 [Project website](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
-## Section 1
+## what does pacha do?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
+With the aim of directly connecting farmers and consumers without the need for intermediaries, Pacha is born, a web platform designed to help farmers make their products more visible to the final consumer, making available to the producer tools based on watson studio and supported by IBM Cloud, taking advantage of market and weather data to develop a price recommendation system for their products and giving suggestions on possible future crops, improving their competitiveness and profitability through Blockchain and artificial intelligence. 
 
-### Subsection 1.1
+### why is it necessary?
 
-Mauris odio ante, rhoncus et varius vel, vulputate et enim. Aliquam erat volutpat. Proin lacinia libero velit, a dictum sapien ultricies quis. Vivamus dolor nibh, efficitur in ipsum vitae, faucibus eleifend felis.
+because currently 500 million small farms around the world, most of them still rainfed, provide up to 80 percent of the food consumed in much of the developing world. Investing in smallholder men and women farmers is an important way to increase food security and nutrition for the poorest, as well as food production for local and global markets.
 
-### Subsection 1.2
+### what is our goal?
 
-Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
+as mentioned by the UN, we expect pacha to help double the agricultural productivity and incomes of small-scale food producers, women, indigenous peoples, family farmers, pastoralists and fisherfolk, among others, through secure and equitable access to land, other resources and production inputs, knowledge, financial services, markets and value-adding opportunities, and off-farm employment.
 
 ## Conclusion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
+Pacha is a fast-growing project, which can even provide suggestions to farmers on products to grow, taking into account consumer demand and other data collected by the platform.
 
-### Results
-
-Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
-
-## Acknowledgments
-
-Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
+A world without hunger is possible, let's make it happen.
