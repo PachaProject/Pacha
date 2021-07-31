@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pacha_app_cpanel/static/css/main.7d0ed398.chunk.css",
+    "main.js": "/pacha_app_cpanel/static/js/main.f400f898.chunk.js",
+    "main.js.map": "/pacha_app_cpanel/static/js/main.f400f898.chunk.js.map",
+    "runtime-main.js": "/pacha_app_cpanel/static/js/runtime-main.a38f3d2a.js",
+    "runtime-main.js.map": "/pacha_app_cpanel/static/js/runtime-main.a38f3d2a.js.map",
+    "static/css/2.692f83a8.chunk.css": "/pacha_app_cpanel/static/css/2.692f83a8.chunk.css",
+    "static/js/2.ee4bb656.chunk.js": "/pacha_app_cpanel/static/js/2.ee4bb656.chunk.js",
+    "static/js/2.ee4bb656.chunk.js.map": "/pacha_app_cpanel/static/js/2.ee4bb656.chunk.js.map",
+    "index.html": "/pacha_app_cpanel/index.html",
+    "static/css/2.692f83a8.chunk.css.map": "/pacha_app_cpanel/static/css/2.692f83a8.chunk.css.map",
+    "static/css/main.7d0ed398.chunk.css.map": "/pacha_app_cpanel/static/css/main.7d0ed398.chunk.css.map",
+    "static/js/2.ee4bb656.chunk.js.LICENSE.txt": "/pacha_app_cpanel/static/js/2.ee4bb656.chunk.js.LICENSE.txt",
+    "static/js/main.f400f898.chunk.js.LICENSE.txt": "/pacha_app_cpanel/static/js/main.f400f898.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/pacha_app_cpanel/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/light-bootstrap-dashboard-react.scss?v=2.0.0": "/pacha_app_cpanel/static/media/nucleo-icons.a30d0b02.ttf",
+    "static/media/reactlogo.55f6660b.png": "/pacha_app_cpanel/static/media/reactlogo.55f6660b.png",
+    "static/media/sidebar-3.9992d0ce.jpg": "/pacha_app_cpanel/static/media/sidebar-3.9992d0ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a38f3d2a.js",
+    "static/css/2.692f83a8.chunk.css",
+    "static/js/2.ee4bb656.chunk.js",
+    "static/css/main.7d0ed398.chunk.css",
+    "static/js/main.f400f898.chunk.js"
+  ]
+}
