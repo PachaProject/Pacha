@@ -44,11 +44,11 @@ With the aim of directly connecting farmers and consumers without the need for i
 
 ## Demo video
 
-[![Watch the video](https://github.com/PachaProject/Pacha/blob/main/images/PachaPich.jpg)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](./images/PachaPich.jpg)](https://youtu.be/vOgCOoy_Bx0)
 
 ## The architecture
 
-![Video transcription/translation app](https://github.com/PachaProject/Pacha/blob/main/images/PachaPich.jpghttps://github.com/PachaProject/Pacha/blob/main/images/architecturePACHA.jpg)
+![Video transcription/translation app](./images/architecturePACHA.jpg)
 
 1. The farmer registers on the website, and registers the products that he produces.
 2. The farmer's information is stored in the database.
@@ -74,7 +74,7 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](./images/RoudmapPacha.jpg)
 
 ## Getting started
 
@@ -114,7 +114,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available
 * [Romel Arce](https://www.linkedin.com/in/romel-arce-romero/)
 
 <a href="https://github.com/PachaProject/Pacha/graphs/contributors">
-  <img src="https://github.com/PachaProject/Pacha/blob/main/images/Authors.png" />
+  <img src="./images/Authors.png" />
 </a>
 
 ## License
