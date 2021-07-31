@@ -1,10 +1,10 @@
-[![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud)
+[![DEMO](https://img.shields.io/badge/View-Website-blue)](https://haydeeesthefany.github.io/pacha_app_FE/#/inicio)
 
-# Getting Started with Sample React App
+# Getting Started
 
-Sample React App is a simple react web app that can be used as a template/starting point for working with React Web framework. 
+With this tutorial you can test the pacha demo easily. 
 
-Instructions to run the Sample React App;
+Instructions to run Pacha;
 1. [Local Development](#run-the-sample-react-app-for-local-development)
 2. [IBM Cloud](#run-the-sample-react-app-on-IBM-cloud-for-free)
 
