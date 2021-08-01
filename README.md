@@ -44,7 +44,7 @@ With the aim of directly connecting farmers and consumers without the need for i
 
 ## Demo video
 
-[![Watch the video](./images/PachaPich.jpg)](https://youtu.be/dJiZ0QfAtNQ)
+[![Watch the video](./images/PachaPich.jpg)](https://youtu.be/bGMUnxtkux8)
 
 ## The architecture
 
