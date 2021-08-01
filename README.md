@@ -36,7 +36,7 @@ One in nine people in the world is currently undernourished; that is, about 815 
 
 ### How can technology help?
 
-Technology can help in many ways. By providing farmers with information about possible droughts, floods, price variations on their products in the market and consumption trends through Artificial Intelligence and Blockchain, which will allow the farmer to be more assertive in deciding what to produce, getting the most out of their products.
+Technology can help in many ways. By providing farmers with information about possible droughts, floods, price variations of their products in the market and consumption trends through Artificial Intelligence and Blockchain, which will allow the farmer to be more assertive when deciding what to produce, obtaining the most out of their products.
 
 ### The idea :fire:
 
@@ -44,7 +44,7 @@ With the aim of directly connecting farmers and consumers without the need for i
 
 ## Demo video
 
-[![Watch the video](./images/PachaPich.jpg)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](./images/PachaPich.jpg)](https://youtu.be/dJiZ0QfAtNQ)
 
 ## The architecture
 
@@ -83,7 +83,7 @@ In this section you will find instructions on how to run the project on your loc
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+You can find a running system to test at [Pacha.com](https://haydeeesthefany.github.io/pacha_app_FE/#/inicio).
 
 ## Built with
 
